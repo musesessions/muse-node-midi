@@ -36,7 +36,8 @@
               '__MACOSX_CORE__'
             ],
             'xcode_settings': {
-              'GCC_ENABLE_CPP_EXCEPTIONS': 'YES'
+              'GCC_ENABLE_CPP_EXCEPTIONS': 'YES',
+              'MACOSX_DEPLOYMENT_TARGET': '10.13'
             },
             'link_settings': {
               'libraries': [

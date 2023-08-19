@@ -1,3 +1,7 @@
+# Muse Node Midi
+Fork of [justinlatimer/node-midi](https://github.com/justinlatimer/node-midi) that 
+sets updated MACOSX_DEPLOYMENT_TARGET for Muse build.
+
 ♪ ♫ ♩ ♬
 
 # node-midi
